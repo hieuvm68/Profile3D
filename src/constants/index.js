@@ -196,7 +196,7 @@ const projects = [
         ],
         image: linkedin,
         source_code_link: "https://github.com/hieuvm68/linkedin_firebase",
-        view_link: "hvm-linkedin.web.app",
+        view_link: "https://hvm-linkedin.web.app/home",
 
     },
     {
